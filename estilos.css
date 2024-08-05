@@ -1,0 +1,25 @@
+body{
+  background:red;
+  background:linear-gradient(red,blue);
+  }
+h1{
+  color:red
+}
+p{
+  color:white
+}
+.franja{
+  background-color: #1cffe0;
+  height: 130px;
+  width: 100%;
+}
+img{
+  margin-top: 5px;
+  margin-right: 10px;
+  float: right;
+}
+.menu{
+  margin-top: 20px;
+  margin-left: 20px;
+  float: left;
+}
